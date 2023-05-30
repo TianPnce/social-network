@@ -12,7 +12,7 @@ API for social network application where users can share their thoughts. In the 
 * [Acceptance Criteria](#acceptance-criteria)
 
 ## Walkthrough
-
+[Click me to watch walkthrough!](https://watch.screencastify.com/v/vrGMZsslNUWklSOGLLCQ)
 
 ## Technology
 - Node.js
