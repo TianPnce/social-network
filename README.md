@@ -46,7 +46,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Notes
-I found this assignment to come really useful and will take what I learned and apply it to future projects.
+I found this assignment to come really useful and will take what I learned and apply it to future projects. Issues that I did run into was adding and removing friends, I would get a "wrong id" message but could not figure out the root of the problem.
 
 ## Questions
 [TianPnce](https://github.com/TianPnce)
